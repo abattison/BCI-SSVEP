@@ -1,0 +1,1 @@
+"c:\Python27\python.exe" emotiv_record_FFT_ANN_trainer.py %*
